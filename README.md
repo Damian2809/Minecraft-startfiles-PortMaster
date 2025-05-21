@@ -20,3 +20,4 @@ Also i Wont do a PR for just one version but if got like 2-5 then i will definet
 
 - **Damo2809**: 1.7.10-Forge, 1.7.10-Vanilla, 1.16.5-Fabric  
 - **MrTschnitzel**: 1.7.10-Forge-Performance  
+- **gfififidl**: 1.12.2-Vanilla, 1.12.2-Forge
